@@ -4,7 +4,7 @@ Hi! Welcome to my entry for Dresscode's Summer of Code 2023!!
 
 ## Introduction 
 
-Here, I have made a program using **Python** that helps you analyse your *own playlist* and compare it to your friends and other genres! These include things like:
+Here, I have made a program using **Python** that helps you analyse any public playlist, be it your own or someone else's, and compare it to your friends and other genres! These include things like:
 
 - The most recurring artist
 - How optimistic, danceable, instrumental, popular, speechy and energetic the songs in your playlist are as a whole
