@@ -19,9 +19,9 @@ To use the code, all you need to do is call it from the command line as such -
 ```bash
 python Playlist_Analyser.py
 ```
-This will use a sample playlist - **Top Songs Global** - to run the code.
+This will ask you for a Playlist URL to analyse.
 
-However, if you wish to use your own playlist, type in - 
+You can also pass the playlist as a parameter, if you type it in like this - 
 
 ```bash
 python Playlist_Analyser.py <playlist-url>
